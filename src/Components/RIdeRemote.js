@@ -6,47 +6,49 @@ export const RideRemote = () => {
         <div className="text-[#FC6220] text-[40px] text-center ">
           RIDE REMOTE
         </div>
-        <div className="flex justify-center gap-20">
-          <div className="text-white grid h-fit gap-9 cursor-pointer w-fit hover:scale-110 first:hover:text-[#Fc6220]">
+        <div className="flex justify-center gap-20 ">
+          <div className="text-white grid h-fit gap-9 cursor-pointer w-fit hover:scale-110 group">
             <div>
-              <h1 className="font-bold">Level</h1>
+              <h1 className="font-bold group-hover:text-[#Fc6220]">Level</h1>
             </div>
             <div>
-              <p className="w-[200px] text-white">
+              <p className="w-[200px] text-white group-hover:text-[#Fc6220]">
                 Intermediate-to-advanced enduro bikers.
               </p>
             </div>
           </div>
-          <div className="text-white grid gap-9 h-fit cursor-pointer w-fit hover:scale-110 even:hover:text-[#FC6220]">
+          <div className="text-white grid gap-9 h-fit cursor-pointer w-fit hover:scale-110 group">
             <div>
-              <h1 className="font-bold">Group</h1>
+              <h1 className="font-bold group-hover:text-[#Fc6220]">Group</h1>
             </div>
-            <div className="text-white">
+            <div className="text-white group-hover:text-[#Fc6220]">
               <p>7 people max.</p>
             </div>
           </div>
-          <div className="text-white grid gap-9 h-fit cursor-pointer w-fit hover:scale-110 first:hover:text-[#Fc6220] ">
+          <div className="text-white grid gap-9 h-fit cursor-pointer w-fit hover:scale-110 group ">
             <div>
-              <h1 className="font-bold hover:text-[#Fc6220]">Period</h1>
+              <h1 className="font-bold group-hover:text-[#Fc6220]">Period</h1>
             </div>
-            <div className="text-white">
+            <div className="text-white group-hover:text-[#Fc6220]">
               <p>April, 2022</p>
             </div>
             <div>
-              <p className="w-[300px] text-white">
+              <p className="w-[300px] text-white group-hover:text-[#Fc6220]">
                 7 days / 6 nights of travel in the countryside 2 nights in
                 Ulaanbaatar city, Mongolia
               </p>
             </div>
           </div>
-          <div class="text-white grid gap-9 h-fit cursor-pointer w-fit hover:scale-110 first:hover:text-[#Fc6220]">
+          <div class="text-white grid gap-9 h-fit cursor-pointer w-fit hover:scale-110 group">
             <div>
-              <h1 className="font-bold hover:text-[#Fc6220]">
+              <h1 className="font-bold group-hover:text-[#Fc6220]">
                 Food & Accommodation
               </h1>
             </div>
             <div>
-              <p>Camps, yurts, lodges and hotels</p>
+              <p className="group-hover:text-[#Fc6220]">
+                Camps, yurts, lodges and hotels
+              </p>
             </div>
           </div>
         </div>

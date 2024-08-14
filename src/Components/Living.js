@@ -11,14 +11,14 @@ export const Living = () => {
             <div className="w-fit grid gap-6 text-white">
               <p className="font-semibold">Feeling welcomed.</p>
               <p className="w-[400px]">
-                Nomadic living has remained part of Mongolian life for
+                {`Nomadic living has remained part of Mongolian life for
                 millennia. Half the country's population still chooses to live
-                in traditional ger tents. It’s in their DNA to wander.
+                in traditional ger tents. It’s in their DNA to wander.`}
               </p>
               <p className="w-[400px]">
-                A stay in a ger tent offers you the opportunity to experience a
+                {`A stay in a ger tent offers you the opportunity to experience a
                 time-honored way of life and provides the perfect base from
-                which to explore Mongolia's majestic landscapes.
+                which to explore Mongolia's majestic landscapes.`}
               </p>
               <p className="w-[400px]">
                 Ger tents are well insulated but lightweight to protect against
