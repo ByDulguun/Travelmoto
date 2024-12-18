@@ -1,5 +1,6 @@
 import { Arrival } from "./Components/Arrival";
 import { Header } from "./Components/Header";
+import { Image } from "./Components/Image";
 import { Life } from "./Components/Life";
 import { Living } from "./Components/Living";
 import { NoManLand } from "./Components/NoManLand";

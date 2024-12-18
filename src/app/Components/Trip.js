@@ -1,15 +1,15 @@
-import { Accomodation } from "../Icon/Accomodation";
-import { Flights } from "../Icon/Flights";
-import { Food } from "../Icon/Food";
-import { Guide } from "../Icon/Guide";
-import { Health } from "../Icon/Health";
-import { Last } from "../Icon/Last";
-import { Private } from "../Icon/Private";
-import { Protective } from "../Icon/Protective";
-import { Riding } from "../Icon/Riding";
-import { Transfers } from "../Icon/Transfers";
-import { Vehicle } from "../Icon/Vehicle";
-import { Visa } from "../Icon/Visa";
+import { Accomodation } from "../assests/Icon/Accomodation";
+import { Flights } from "../assests/Icon/Flights";
+import { Food } from "../assests/Icon/Food";
+import { Guide } from "../assests/Icon/Guide";
+import { Health } from "../assests/Icon/Health";
+import { Last } from "../assests/Icon/Last";
+import { Private } from "../assests/Icon/Private";
+import { Protective } from "../assests/Icon/Protective";
+import { Riding } from "../assests/Icon/Riding";
+import { Transfers } from "../assests/Icon/Transfers";
+import { Vehicle } from "../assests/Icon/Vehicle";
+import { Visa } from "../assests/Icon/Visa";
 
 export const Trip = () => {
   return (

@@ -39,7 +39,7 @@ export const RideRemote = () => {
               </p>
             </div>
           </div>
-          <div class="text-white grid gap-9 h-fit cursor-pointer w-fit hover:scale-110 group">
+          <div className="text-white grid gap-9 h-fit cursor-pointer w-fit hover:scale-110 group">
             <div>
               <h1 className="font-bold group-hover:text-[#Fc6220]">
                 Food & Accommodation
